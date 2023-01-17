@@ -5,7 +5,7 @@
 
 
 import os
-# os.chdir("FedBCD-main")
+
 
 import tensorflow as tf
 from Utils import getData

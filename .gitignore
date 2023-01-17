@@ -16,7 +16,6 @@ data/
 *.json
 *.pth
 *.png
-*.txt
 *.zip
 .idea/
 
